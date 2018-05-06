@@ -258,7 +258,7 @@ public class javaLinkedList {
         link2.print();
     }
 
-    public static void simpleLinkedList3() {
+    public static void simpleLinkedList3() {                    // 3、链表
         Link3 link3 = new Link3();
         link3.add("火车头");
         link3.add("车厢1");
