@@ -11,6 +11,7 @@ public class practice_01 {
         int[] newArr = new int[count(oldArr)];
         copy(oldArr, newArr);
         print(newArr);
+
     }
 
     public static int count(int[] temp) {
